@@ -1,0 +1,8 @@
+_site/*
+
+Thumbs.db
+.DS_Store
+
+run-jekyll.sh
+
+!.gitkeep
