@@ -7,6 +7,5 @@ Thumbs.db
 *.psd
 *.ai
 
-Gemfile
 *.gem
 *.lock
