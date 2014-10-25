@@ -7,4 +7,4 @@ Gemfile
 *.gem
 *.lock
 
-run-jekyll.sh
+*run-jekyll.sh
