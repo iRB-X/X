@@ -3,9 +3,5 @@ _site/*
 Thumbs.db
 .DS_Store
 
-*.sh
-*.psd
-*.ai
-
 *.gem
 *.lock
