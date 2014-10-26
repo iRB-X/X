@@ -1,4 +1,4 @@
-project-x
+Project X
 =========
 
-Project X - Just another repository for iROCKBUNNY's awesome projects
+Just another repository for iROCKBUNNY's awesome projects
