@@ -1,4 +1,4 @@
-Project X
+Project X: GitHub Page
 =========
 
-Just another repository for iROCKBUNNY's awesome projects
+GitHub Page for iROCKBUNNY's Project X
