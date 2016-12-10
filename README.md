@@ -1,4 +1,3 @@
-Project X
+X
 =========
-
-Just another repository for iROCKBUNNY's awesome projects
+[http://x.irockbunny.com](http://x.irockbunny.com)
