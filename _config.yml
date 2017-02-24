@@ -11,6 +11,7 @@ repository: https://github.com/iROCKBUNNY/X
 timezone: Asia/Shanghai
 
 name: "..:: X ::.."
+alias: X
 author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: TEELAB
