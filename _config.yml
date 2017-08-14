@@ -16,7 +16,7 @@ contact: contact[at]irockbunny[dot]com
 
 logo: /img/Avatar.png
 
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 
