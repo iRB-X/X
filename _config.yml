@@ -4,16 +4,19 @@ repository: https://github.com/iROCKBUNNY/X
 
 timezone: Asia/Shanghai
 
-name: "..:: X ::.."
+title: "..:: X ::.."
 alias: X
+description: Imagination is reality.
+url: http://x.irockbunny.com
+
 author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: TEELAB
 organization_url: http://teelab.net
-description: Imagination is reality.
-url: http://x.irockbunny.com
+
 contact: contact[at]irockbunny[dot]com
 
+image: /img/Avatar.png
 logo: /img/Avatar.png
 
 plugins:
